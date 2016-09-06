@@ -1,6 +1,11 @@
 # Guide To CSharp Design Patterns
-### Behavioral patterns
 
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
+
+### Behavioral patterns
 
 Blackboard	
 Artificial intelligence pattern for combining disparate sources of data (see blackboard system)	
