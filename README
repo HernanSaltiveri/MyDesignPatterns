@@ -1,6 +1,6 @@
-#Guide To CSharp Design Patterns
+# Guide To CSharp Design Patterns
 ===============================
-##Behavioral patterns
+## Behavioral patterns
 ===================
 
 Blackboard	
@@ -47,7 +47,7 @@ Visitor
 Represent an operation to be performed on the elements of an object structure. Visitor lets a new operation be defined without changing the classes of the elements on which it operates.	Yes	No	N/A
 
 
-##Creational patterns
+## Creational patterns
 ===================
 Abstract factory	
 Provide an interface for creating families of related or dependent objects without specifying their concrete classes.	
@@ -77,7 +77,7 @@ Singleton
 Ensure a class has only one instance, and provide a global point of access to it.
 
 
-##Structural patterns
+## Structural patterns
 ===================
 
 Adapter or Wrapper or Translator	
